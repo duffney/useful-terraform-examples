@@ -1,1 +1,1 @@
-# useful-terraform-samples
+# Useful Terraform samples
