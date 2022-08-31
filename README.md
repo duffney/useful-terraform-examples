@@ -1,1 +1,1 @@
-# Useful Terraform samples
+# Useful Terraform examples
